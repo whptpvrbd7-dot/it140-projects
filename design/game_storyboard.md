@@ -5,48 +5,46 @@
 
 ## Theme and Storyline
 
-**Theme:**
+**Theme:** Slaying the Basilisk before the King returns!
 
-TODO: Name and briefly describe your game's theme.
+TODO: The Scary Basilisk! Slaying the Basilisk before the King returns to the castle!
 
 **Storyline:**
 
-TODO: In one short paragraph, explain the setting, the player's goal, the items
-the player must gather, and the threat created by the villain.
-
+TODO: The basilisk has teken over the castle! You need to defeat the basilisk before the king arrives back home. Beofre you fight the basilisk you need to collect some items to help. A axe to chop the basilisk, a shield to protect from the basilisk bit, Armor to protect your body, bread to give engergy and endurence to fight, a magical cloak to hide incase of danger! Finally a basilisk poison potion to help defeat the basilisk!
 ## Rooms
 
 Project One requires a minimum of eight rooms.
 
-1. TODO: Start room
-2. TODO: Room
-3. TODO: Room
-4. TODO: Room
-5. TODO: Room
-6. TODO: Room
-7. TODO: Room
-8. TODO: Villain room
+1. TODO: Start room: Archieve room
+2. TODO: Throne Room
+3. TODO: Chapel
+4. TODO: Celluar
+5. TODO: Treasury
+6. TODO: Kitchen
+7. TODO: Royal Bed Chamber
+8. TODO: Villain room : Armory
 
 Add more rooms if your design needs them.
 
-## Items
+## Items: Axe, Magical Cloak,Shield, Armor, Bread, Basilisk Potion, Basilisk!
 
 With the minimum eight-room design, Project One requires at least six items.
 Every room except the start room and villain room must contain one item.
 
-1. TODO: Item
-2. TODO: Item
-3. TODO: Item
-4. TODO: Item
-5. TODO: Item
-6. TODO: Item
+1. TODO: Shield-Chapel
+2. TODO: Treasury-Armor
+3. TODO: Cellar- Bread
+4. TODO: Archieve room- Basilisk posion potion
+5. TODO: Kitchen- Axe
+6. TODO: Royal Bed Chamber- Magical Cloak
 
 If you add rooms beyond the minimum, add an item for every additional room
 except the start room and villain room.
 
 ## Villain
 
-TODO: Identify and briefly describe the villain.
+TODO: The Villian is a Big Mean Ancient Basilisk. His home got destroyed and was seeking a new home so he took over the castle!
 
 ## Storyboard and Map Check
 
