@@ -6,28 +6,68 @@
 # Review the course-provided get-item flowchart before completing this file.
 # Write pseudocode, not Python code. Use clear indentation and course-appropriate
 # keywords such as INPUT, OUTPUT, IF, ELSE, SET, ADD, or similar terms.
+Basilisk Adventure Game!
+Collect 6 items to defeat the basilisk or be eaten!
+Move commands: go north, go south,go east, go west
+Add to inventory to get a item!
 
-START get_item
+Add inventory: get item name
+Enter your move:
+go west
+You are in the kitchen
+InventoryL []
+You see a axe
+Enter your move:
+get axe
+Axe retrieved!
+"Your are in the kitcehn
+Inventory: ['axe']
+"You are in the kitchen
+Inventory: ['axe']
+enter your move:
+go south
+Your in Throne Room
+Inventory ['axe']
+enter your move:
+go east
+Your are in celluar
+Inventory: ['axe']
+enter your move:
+get Bread
+Bread Retrieved!
+Your in celluar
+Inventory:[axe,bread']
+enter your move
+go north
+Your are in Archieve Room
+Inventory:[axe,bread']
+enter your move
+get posion
+posion Retrieved!
+Your are in Archieve Room
+Inventory ['axe.Bread.Posion']
+enter yhour move
+go west,
+You cant go that way!
+Your are in  Archieve Room
+Inventory ['axe,bread,posion']
+enter your move
+go south
+Your are in celluar
+Inventory ['axe,bread,posion']
+enter your move
+go west
+Your are in Throne Room
+Inventory['axe,bread,posion']
+enter your move
+go west
+Your are in the Armory
+Inventory: ['axe,bread,posion']
+Chomp Chomp... Game Over!
+Thank for playing!
+    
 
-    # TODO 1: Identify the information the get-item process needs.
-    # Consider the current room, item in that room, and player's inventory.
-
-    # TODO 2: Prompt for and receive the player's get-item command.
-
-    # TODO 3: Validate whether the requested item is available in the current
-    # room. Show the decision clearly.
-
-    # TODO 4: Describe what happens when the item request is valid.
-    # Include the inventory update and player output.
-
-    # TODO 5: Describe what happens when the item request is invalid.
-    # Include the output the player should receive.
-
-    # TODO 6: Show how the process returns to or continues the larger gameplay
-    # loop after the command is handled.
-
-END get_item
 
 
-# References
+
 
