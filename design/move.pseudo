@@ -7,19 +7,29 @@
 # Write pseudocode, not Python code. Use clear indentation and course-appropriate
 # keywords such as INPUT, OUTPUT, IF, ELSE, WHILE, SET, or similar terms.
 
-# TODO 1: Identify the information the movement process needs.
-# Consider the player's current room and movement command.
+Start
 
-# TODO 2: Prompt for and receive the player's movement command.
-
-# TODO 3: Validate whether the requested movement is possible from the
-# current room. Show the decision clearly.
-
-# TODO 4: Describe what happens when the movement command is valid.
-# Include the room update and player output.
-
-# TODO 5: Describe what happens when the movement command is invalid.
-# Include the output the player should receive.
-
-# TODO 6: Show how movement fits into repeated gameplay.
-# The final game continues accepting commands until a required ending occurs.
+# TODO 1: Player inputss a directionL
+if player is in Royal bed chamber
+If direction is west
+Enter Kitchen
+# TODO 2: Elif direction is south
+Enter Throne Room
+# TODO 3: Elif direction is East
+Enter Cellar
+# TODO 4: Elif direction is North
+Enter Archieve Room
+# TODO 5: Elif direction is south 
+Enter Celluar
+# TODO 6: Elif direction is west
+Enter Throne Room
+Elif direction is south
+Enter Chapel
+Elif direction is East
+Enter Treasury
+Elif direction is West
+Enter Chapel
+Elif direction is north
+enter throne room
+elif direction is west 
+enter Armory
