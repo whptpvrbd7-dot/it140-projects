@@ -9,14 +9,33 @@ rooms = {
 }
 
 
-# TODO: Set the player's starting room for the simplified prototype.
+# Initially user will be placed in the main room or the Great Hall
+starting_room = 'Great Hall'
 
-# TODO: Create the gameplay loop required by the milestone.
-# Within the loop, complete the required behavior in small steps:
-#   1. Display the current room.
-#   2. Prompt for a movement command or "exit".
-#   3. Branch for a valid move, exit, or invalid input.
-#   4. Update the room only after a valid movement command.
-#   5. Continue until the required exit condition is reached.
+# set current room to use in gameplay loop
+currentRoom = starting_room
 
-# TODO: Run and debug all milestone cases in prototype/README.md.
+while True:
+    # display current location
+print('\nYou are currently in {}'.format(currentRoom))
+# let thte user enter the command to move as 'go direction' or 'exit'
+
+
+move = input("Enter your move: ").split()[-1].captialize()
+print('--------------------------------)
+
+
+#user to exit
+      # if 'go direction' ==> 'direction'
+      if move == Exit':
+                # if exit ==> 'exit
+print('Thank for playing the game. Hope you enjoyed it!")
+
+
+# a valid move
+if move in rooms [currentRoom]:
+        currentRoom = rooms[currentRoom][move]
+
+
+else:
+    print('Invalid Move. You can't go that way!" .format(move))
